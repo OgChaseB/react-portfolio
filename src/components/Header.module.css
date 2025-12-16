@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.Header {
+  max-width: 1240px;
+  margin: 0 auto;
+}
+.Header_content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+li {
+  list-style-type: none;
+}
