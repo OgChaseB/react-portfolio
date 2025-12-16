@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.li2 {
+  color: pink;
+  font-size: 19px;
+  list-style-type: none;
+}
+
+.ul2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
